@@ -1,0 +1,17 @@
+{
+    "name": "phpusion/laravel-auth-stub",
+    "description": "A package to quickly get user authentication and registration setup on Laravel 5",
+    "authors": [
+        {
+            "name": "Patrick Stephan",
+            "email": "pstephan1187@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Phpusion\\LaravelAuthStub\\": "src/"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
